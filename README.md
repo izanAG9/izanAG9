@@ -61,13 +61,13 @@
 ---
 
 ### ⚡ Core Competencies
-* **Cloud Support**: Expertise in AWS enterprise environments (EC2, ELB, VPC); familiarized with Azure cloud concepts and architecture.
-* **Observability & Analytics**: Advanced troubleshooting and log analysis using OpenSearch, Elasticsearch, and Grafana stacks.
-* **Orchestration & Containers**: Managing production Kubernetes clusters, containerization with Docker, and multi-node cluster architecture.
-* **Automation & CI/CD**: Building and maintaining complex CI/CD pipelines with Jenkins and GitLab/Bitbucket.
-* **Systems Administration**: Deep knowledge of Linux (Debian/Ubuntu/RHEL) & Windows Server administration.
-* **Scripting & Infrastructure**: Practical application of Python and Bash for infrastructure automation and log processing.
-* **ITSM & Tools**: Incident management, Jira & ServiceNow workflows, and Git-based version control.
+Cloud: AWS (Expert), Azure (Familiar).
+Observability: OpenSearch, Elasticsearch, Grafana.
+Orchestration: Kubernetes, Docker.
+Automation: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines.
+Systems: Linux (Debian, Ubuntu, RHEL), Windows Server.
+Scripting: Python, Bash.
+ITSM & Tools: Incident Management, Jira, ServiceNow, Git.
 
 ---
 
