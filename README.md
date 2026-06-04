@@ -58,11 +58,13 @@
 
 ### ⚡ Core Competencies
 * **Cloud**: AWS (AWS Cloud Practitioner certified), Azure (Familiar)
+* **Virtualization**: Docker, Kubernetes, Proxmox, VM Virtual Box, VMware
 * **Observability**: OpenSearch, Elasticsearch, Grafana
 * **Orchestration**: Kubernetes, Docker
+* **Security**: Firewalls (iptables, nftables)
 * **Automation**: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines
 * **Systems**: Linux (Debian, Ubuntu, Mint), Windows Server, Windows
-* **Scripting**: Python, Bash
+* **Scripting**: Python
 * **ITSM & Tools**: Incident Management, Jira, ServiceNow, Git
 
 ---
