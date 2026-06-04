@@ -17,11 +17,6 @@
   </a>
 </p>
 
-### 📈 Visitor Count
-<p align="left">
-  <img src="https://hitcount.dev/izanAG9?style=flat&label=Visitors&color=0077B5" alt="Hitcount"/>
-</p>
-
 ---
 
 ### 🛠 Tech Stack
