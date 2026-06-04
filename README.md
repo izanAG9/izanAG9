@@ -61,7 +61,7 @@
 * **Observability**: OpenSearch, Elasticsearch, Grafana
 * **Orchestration**: Kubernetes, Docker
 * **Automation**: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines
-* **Systems**: Linux (Debian, Ubuntu, Mint), Windows Server
+* **Systems**: Linux (Debian, Ubuntu, Mint), Windows Server, Windows
 * **Scripting**: Python, Bash
 * **ITSM & Tools**: Incident Management, Jira, ServiceNow, Git
 
