@@ -61,13 +61,13 @@
 ---
 
 ### ⚡ Core Competencies
-Cloud: AWS (Expert), Azure (Familiar).
-Observability: OpenSearch, Elasticsearch, Grafana.
-Orchestration: Kubernetes, Docker.
-Automation: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines.
-Systems: Linux (Debian, Ubuntu, RHEL), Windows Server.
-Scripting: Python, Bash.
-ITSM & Tools: Incident Management, Jira, ServiceNow, Git.
+* **Cloud**: AWS (AWS Cloud Practitioner certified), Azure (Familiar)
+* **Observability**: OpenSearch, Elasticsearch, Grafana
+* **Orchestration**: Kubernetes, Docker
+* **Automation**: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines
+* **Systems**: Linux (Debian, Ubuntu, RHEL), Windows Server
+* **Scripting**: Python, Bash
+* **ITSM & Tools**: Incident Management, Jira, ServiceNow, Git
 
 ---
 
