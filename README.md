@@ -17,9 +17,9 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=izanAG9" alt="visitor badge"/>
-</p>
+<a href="https://github.com/izanAG9">
+  <img src="https://count.getloli.com/get/@izanAG9?theme=rule34" alt="visitor badge"/>
+</a>
 
 ---
 
