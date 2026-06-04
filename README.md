@@ -17,9 +17,10 @@
   </a>
 </p>
 
-<a href="https://github.com/izanAG9">
-  <img src="https://count.getloli.com/get/@izanAG9?theme=rule34" alt="visitor badge"/>
-</a>
+### 📈 Visitor Count
+<p align="left">
+  <img src="https://hitcount.dev/izanAG9?style=flat&label=Visitors&color=0077B5" alt="Hitcount"/>
+</p>
 
 ---
 
