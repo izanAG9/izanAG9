@@ -1,6 +1,6 @@
 # Hi, I'm Izan! 🚀
 
-**Cloud & Platform Support Engineer | Infrastructure Enthusiast**
+**DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD**
 
 ---
 
@@ -50,22 +50,24 @@
 ---
 
 ### 👨🏻‍💻 About Me
-* **Role**: Cloud & Platform Support Engineer.
-* **Focus**: High Availability, Observability, and Cloud Infrastructure.
-* **Goal**: Always learning and improving enterprise-grade systems.
+
+- 🚀 DevOps & Cloud Operations Engineer with experience supporting enterprise production environments.
+- ☁️ Experienced with AWS, Kubernetes, Terraform, Jenkins and CI/CD pipelines.
+- 📊 Passionate about Cloud Operations, Observability, Automation and Infrastructure as Code.
+- 📚 Currently preparing for the AWS Certified Solutions Architect – Associate certification.
 
 ---
 
 ### ⚡ Core Competencies
-* **Cloud**: AWS (AWS Cloud Practitioner certified), Azure (Familiar)
-* **Virtualization**: Docker, Kubernetes, Proxmox, VM Virtual Box, VMware
-* **Observability**: OpenSearch, Elasticsearch, Grafana
-* **Orchestration**: Kubernetes, Docker
-* **Security**: Firewalls (iptables, nftables)
-* **Automation**: CI/CD (Jenkins, GitLab/Bitbucket), Pipelines
-* **Systems**: Linux (Debian, Ubuntu, Mint), Windows Server, Windows
-* **Scripting**: Python
-* **ITSM & Tools**: Incident Management, Jira, ServiceNow, Git
+
+- **Cloud:** AWS (Cloud Practitioner), Microsoft Azure
+- **DevOps:** Jenkins, Git, CI/CD Pipelines, JFrog Artifactory
+- **Containers & IaC:** Kubernetes, Docker, Terraform
+- **Monitoring & Observability:** Grafana, OpenSearch, Elasticsearch
+- **Cloud Operations:** Incident Management, Production Support, Root Cause Analysis (RCA), Troubleshooting
+- **Systems:** Linux (Debian, Ubuntu), Windows Server
+- **Networking:** TCP/IP, DNS, VPN
+- **Scripting:** Python, Bash
+- **ITSM & Collaboration:** Jira, ServiceNow, Confluence
 
 ---
-
